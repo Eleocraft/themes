@@ -1,0 +1,19 @@
+---
+summary:
+   name: "Catppuccin_Frappe"
+   author: "Eliseo Cailloux"
+   info: "Theme build around the catppuccin frappe palette"
+colors:
+   PRIMARY1: 0xC6D0F5
+   PRIMARY2: 0x51576D
+   PRIMARY3: 0xBABBF1
+   SECONDARY1: 0x838BA7
+   SECONDARY2: 0x414559
+   SECONDARY3: 0x303446
+   FOCUS: 0x85C1DC
+   EDIT: 0xBABBF1
+   ACTIVE: 0xF4B8E4
+   WARNING: 0xE78284
+   DISABLED: 0x949CBB
+   QM_BG: 0x303446
+   QM_FG: 0xC6D0F5
