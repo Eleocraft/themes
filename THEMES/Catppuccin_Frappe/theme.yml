@@ -1,7 +1,7 @@
 ---
 summary:
    name: "Catppuccin_Frappe"
-   author: "Eliseo Cailloux"
+   author: "Eleocraft"
    info: "Theme build around the catppuccin frappe palette"
 colors:
    PRIMARY1: 0xC6D0F5

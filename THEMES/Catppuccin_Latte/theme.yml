@@ -1,7 +1,7 @@
 ---
 summary:
    name: "Catppuccin_Latte"
-   author: "Eliseo Cailloux"
+   author: "Eleocraft"
    info: "Theme build around the catppuccin latte palette"
 colors:
    PRIMARY1: 0x4C4F69
