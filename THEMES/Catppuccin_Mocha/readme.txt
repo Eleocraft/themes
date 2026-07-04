@@ -1,4 +1,4 @@
-This theme was constructed using the official catppuccin mocha palette
+This theme was constructed using the official Catppuccin Mocha palette
 
 https://catppuccin.com/palette/
 

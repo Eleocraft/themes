@@ -1,19 +1,19 @@
 ---
 summary:
-   name: "Catppuccin_Macchiato"
-   author: "Eleocraft"
-   info: "Theme build around the catppuccin macchiato palette"
+  name: "Catppuccin Macchiato"
+  author: "Eleocraft"
+  info: "Theme built around the Catppuccin Macchiato palette"
 colors:
-   PRIMARY1: 0xCAD3F5
-   PRIMARY2: 0x494D64
-   PRIMARY3: 0xB7BDF8
-   SECONDARY1: 0x8087A2
-   SECONDARY2: 0x363A4F
-   SECONDARY3: 0x24273A
-   FOCUS: 0x7DC4E4
-   EDIT: 0xB7BDF8
-   ACTIVE: 0xF5BDE6
-   WARNING: 0xED8796
-   DISABLED: 0x939AB7
-   QM_BG: 0x24273A
-   QM_FG: 0xCAD3F5
+  PRIMARY1: 0xCAD3F5
+  PRIMARY2: 0x494D64
+  PRIMARY3: 0xB7BDF8
+  SECONDARY1: 0x8087A2
+  SECONDARY2: 0x363A4F
+  SECONDARY3: 0x24273A
+  FOCUS: 0x7DC4E4
+  EDIT: 0xB7BDF8
+  ACTIVE: 0xF5BDE6
+  WARNING: 0xED8796
+  DISABLED: 0x939AB7
+  QM_BG: 0x24273A
+  QM_FG: 0xCAD3F5

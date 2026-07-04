@@ -1,19 +1,19 @@
 ---
 summary:
-   name: "Catppuccin_Mocha"
-   author: "Eleocraft"
-   info: "Theme build around the catppuccin mocha palette"
+  name: "Catppuccin Mocha"
+  author: "Eleocraft"
+  info: "Theme built around the Catppuccin Mocha palette"
 colors:
-   PRIMARY1: 0xCDD6F4
-   PRIMARY2: 0x45475A
-   PRIMARY3: 0xB4BEFE
-   SECONDARY1: 0x7F849C
-   SECONDARY2: 0x313244
-   SECONDARY3: 0x1E1E2E
-   FOCUS: 0x74C7EC
-   EDIT: 0xB4BEFE
-   ACTIVE: 0xF5C2E7
-   WARNING: 0xF38BA8
-   DISABLED: 0x9399B2
-   QM_BG: 0x1E1E2E
-   QM_FG: 0xCDD6F4
+  PRIMARY1: 0xCDD6F4
+  PRIMARY2: 0x45475A
+  PRIMARY3: 0xB4BEFE
+  SECONDARY1: 0x7F849C
+  SECONDARY2: 0x313244
+  SECONDARY3: 0x1E1E2E
+  FOCUS: 0x74C7EC
+  EDIT: 0xB4BEFE
+  ACTIVE: 0xF5C2E7
+  WARNING: 0xF38BA8
+  DISABLED: 0x9399B2
+  QM_BG: 0x1E1E2E
+  QM_FG: 0xCDD6F4

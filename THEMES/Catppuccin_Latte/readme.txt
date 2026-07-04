@@ -1,4 +1,4 @@
-This theme was constructed using the official catppuccin latte palette
+This theme was constructed using the official Catppuccin Latte palette
 
 https://catppuccin.com/palette/
 

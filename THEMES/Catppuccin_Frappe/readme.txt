@@ -1,4 +1,4 @@
-This theme was constructed using the official catppuccin frappe palette
+This theme was constructed using the official Catppuccin Frappe palette
 
 https://catppuccin.com/palette/
 

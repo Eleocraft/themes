@@ -1,4 +1,4 @@
-This theme was constructed using the official catppuccin macchiato palette
+This theme was constructed using the official Catppuccin Macchiato palette
 
 https://catppuccin.com/palette/
 

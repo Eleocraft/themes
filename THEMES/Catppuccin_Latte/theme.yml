@@ -1,19 +1,19 @@
 ---
 summary:
-   name: "Catppuccin_Latte"
-   author: "Eleocraft"
-   info: "Theme build around the catppuccin latte palette"
+  name: "Catppuccin Latte"
+  author: "Eleocraft"
+  info: "Theme built around the Catppuccin Latte palette"
 colors:
-   PRIMARY1: 0x4C4F69
-   PRIMARY2: 0xBCC0CC
-   PRIMARY3: 0x7287FD
-   SECONDARY1: 0x8C8FA1
-   SECONDARY2: 0xCCD0DA
-   SECONDARY3: 0xEFF1F5
-   FOCUS: 0x209FB5
-   EDIT: 0x7287FD
-   ACTIVE: 0xEA76CB
-   WARNING: 0xD20F39
-   DISABLED: 0x7C7F93
-   QM_BG: 0xEFF1F5
-   QM_FG: 0x4C4F69
+  PRIMARY1: 0x4C4F69
+  PRIMARY2: 0xBCC0CC
+  PRIMARY3: 0x7287FD
+  SECONDARY1: 0x8C8FA1
+  SECONDARY2: 0xCCD0DA
+  SECONDARY3: 0xEFF1F5
+  FOCUS: 0x209FB5
+  EDIT: 0x7287FD
+  ACTIVE: 0xEA76CB
+  WARNING: 0xD20F39
+  DISABLED: 0x7C7F93
+  QM_BG: 0xEFF1F5
+  QM_FG: 0x4C4F69
